@@ -11,4 +11,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/aadityaa2023/Leetcode/tree/master/0707-design-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/aadityaa2023/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
