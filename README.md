@@ -50,4 +50,5 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/aadityaa2023/Leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/aadityaa2023/Leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
