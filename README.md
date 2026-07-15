@@ -18,4 +18,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadityaa2023/Leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/aadityaa2023/Leetcode/tree/master/0682-baseball-game) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/aadityaa2023/Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/aadityaa2023/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
