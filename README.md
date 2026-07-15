@@ -18,13 +18,23 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadityaa2023/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/aadityaa2023/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aadityaa2023/Leetcode/tree/master/0682-baseball-game) |
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/aadityaa2023/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aadityaa2023/Leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/aadityaa2023/Leetcode/tree/master/0682-baseball-game) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aadityaa2023/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aadityaa2023/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
