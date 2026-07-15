@@ -21,11 +21,13 @@
 | [0155-min-stack](https://github.com/aadityaa2023/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/aadityaa2023/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aadityaa2023/Leetcode/tree/master/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadityaa2023/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Array
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aadityaa2023/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aadityaa2023/Leetcode/tree/master/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadityaa2023/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aadityaa2023/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadityaa2023/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
