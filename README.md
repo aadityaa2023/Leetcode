@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/aadityaa2023/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/aadityaa2023/Leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
