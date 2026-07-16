@@ -1,19 +1,19 @@
 class MyQueue {
-    Queue<Integer> q = new ArrayDeque<>();
+    Deque<Integer> q = new ArrayDeque<>();
 
     
     public void push(int x) {
-        q.offer(x);
+        q.offerLast(x);
         
     }
     
     public int pop() {
-        return q.poll();
+        return q.pollFirst();
         
     }
     
     public int peek() {
-        return q.peek();
+        return q.peekFirst();
         
     }
     
