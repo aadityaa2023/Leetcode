@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/aadityaa2023/Leetcode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/aadityaa2023/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/aadityaa2023/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
