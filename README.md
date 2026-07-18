@@ -14,6 +14,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/aadityaa2023/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aadityaa2023/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aadityaa2023/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aadityaa2023/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/aadityaa2023/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aadityaa2023/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aadityaa2023/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aadityaa2023/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/aadityaa2023/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aadityaa2023/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aadityaa2023/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aadityaa2023/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +65,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadityaa2023/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aadityaa2023/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aadityaa2023/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
