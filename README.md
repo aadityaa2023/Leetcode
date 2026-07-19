@@ -57,4 +57,12 @@
 | ------- |
 | [0133-clone-graph](https://github.com/aadityaa2023/Leetcode/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/aadityaa2023/Leetcode/tree/master/0997-find-the-town-judge) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aadityaa2023/Leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aadityaa2023/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
