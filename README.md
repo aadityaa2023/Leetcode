@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aadityaa2023/Leetcode/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/aadityaa2023/Leetcode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aadityaa2023/Leetcode/tree/master/0043-multiply-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aadityaa2023/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aadityaa2023/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
