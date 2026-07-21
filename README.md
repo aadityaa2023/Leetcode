@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [2295-replace-elements-in-an-array](https://github.com/aadityaa2023/Leetcode/tree/master/2295-replace-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aadityaa2023/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->
