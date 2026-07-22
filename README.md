@@ -10,4 +10,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadityaa2023/Leetcode/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/aadityaa2023/Leetcode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
